@@ -19,6 +19,9 @@ A Wikipedia introduction of a company (typically 1–5 paragraphs).
    - Historical trivia, non-core anecdotes, or awards  
    - Mentions of unrelated companies or brand slogans  
    - Editorial tone or redundancy  
+   - Product names
+   - Founder names
+   - Headquarters location
 
 3. **Rephrase for Semantic Clarity:**
    - Use consistent business terminology (e.g., "operates in", "provides", "develops", "manufactures")  
@@ -37,4 +40,4 @@ A Wikipedia introduction of a company (typically 1–5 paragraphs).
 **Task:**  
 Rewrite the following text according to the above rules to maximize embedding quality for clustering based on industry and business characteristics.
 
-[INSERT WIKIPEDIA INTRO HERE]
+**Article:**
