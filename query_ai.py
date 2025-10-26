@@ -1,14 +1,19 @@
 import os
 import pandas as pd
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize OpenAI client (ensure OPENAI_API_KEY is set in your environment)
-client = OpenAI()
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # === Config ===
 INPUT_CSV = "data/sp500_wiki_intros_full.csv"
 OUTPUT_CSV = "data/sp500_summaries.csv"
-PROMPT = "prompts/gpt_v1.txt"  # folder with text files named like "MMM.txt"
+PROMPT = "prompts/gpt_v1.txt"
+
+MODEL = "text-embedding-3-small"
 
 # === Load CSV ===
 df = pd.read_csv(INPUT_CSV)
@@ -24,7 +29,7 @@ for idx, row in df.iterrows():
 
     # Read corresponding text file
     if not os.path.exists(text_path):
-        print(f"⚠️ Missing file for {symbol}: {text_path}")
+        print(f"⚠️ Missing file for: {text_path}")
         continue
     with open(text_path, "r", encoding="utf-8") as f:
         base_text = f.read()
@@ -34,10 +39,7 @@ for idx, row in df.iterrows():
 
     # === Send to OpenAI ===
     try:
-        response = client.responses.create(
-            model="gpt-4.1-mini",  # or gpt-4.1, gpt-5, etc.
-            input=f"Process the following company info:\n\n{combined_text}",
-        )
+        response = client.embeddings.create(input=combined_text, model=MODEL)
         result = response.output[0].content[0].text
         df.at[idx, "Model_Output"] = result
 
