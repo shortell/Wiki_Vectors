@@ -1,503 +1,502 @@
 ID,Symbol,Security,Wikipedia_URL,Cluster
 1,MMM,3M,https://en.wikipedia.org/wiki/3M,0
-2,AOS,A. O. Smith,https://en.wikipedia.org/wiki/A._O._Smith,-1
-3,ABT,Abbott Laboratories,https://en.wikipedia.org/wiki/Abbott_Laboratories,7
-4,ABBV,AbbVie,https://en.wikipedia.org/wiki/AbbVie,-1
+2,AOS,A. O. Smith,https://en.wikipedia.org/wiki/A._O._Smith,6
+3,ABT,Abbott Laboratories,https://en.wikipedia.org/wiki/Abbott_Laboratories,20
+4,ABBV,AbbVie,https://en.wikipedia.org/wiki/AbbVie,20
 5,ACN,Accenture,https://en.wikipedia.org/wiki/Accenture,-1
-6,ADBE,Adobe Inc.,https://en.wikipedia.org/wiki/Adobe_Inc.,10
-7,AMD,Advanced Micro Devices,https://en.wikipedia.org/wiki/AMD,9
-8,AES,AES Corporation,https://en.wikipedia.org/wiki/AES_Corporation,3
-9,AFL,Aflac,https://en.wikipedia.org/wiki/Aflac,-1
-10,A,Agilent Technologies,https://en.wikipedia.org/wiki/Agilent_Technologies,-1
+6,ADBE,Adobe Inc.,https://en.wikipedia.org/wiki/Adobe_Inc.,31
+7,AMD,Advanced Micro Devices,https://en.wikipedia.org/wiki/AMD,31
+8,AES,AES Corporation,https://en.wikipedia.org/wiki/AES_Corporation,2
+9,AFL,Aflac,https://en.wikipedia.org/wiki/Aflac,27
+10,A,Agilent Technologies,https://en.wikipedia.org/wiki/Agilent_Technologies,20
 11,APD,Air Products,https://en.wikipedia.org/wiki/Air_Products,-1
-12,ABNB,Airbnb,https://en.wikipedia.org/wiki/Airbnb,-1
-13,AKAM,Akamai Technologies,https://en.wikipedia.org/wiki/Akamai_Technologies,-1
-14,ALB,Albemarle Corporation,https://en.wikipedia.org/wiki/Albemarle_Corporation,-1
-15,ARE,Alexandria Real Estate Equities,https://en.wikipedia.org/wiki/Alexandria_Real_Estate_Equities,-1
-16,ALGN,Align Technology,https://en.wikipedia.org/wiki/Align_Technology,6
-17,ALLE,Allegion,https://en.wikipedia.org/wiki/Allegion,3
-18,LNT,Alliant Energy,https://en.wikipedia.org/wiki/Alliant_Energy,3
-19,ALL,Allstate,https://en.wikipedia.org/wiki/Allstate,-1
-20,GOOGL,Alphabet Inc. (Class A),https://en.wikipedia.org/wiki/Alphabet_Inc.,10
-21,GOOG,Alphabet Inc. (Class C),https://en.wikipedia.org/wiki/Alphabet_Inc.,10
-22,MO,Altria,https://en.wikipedia.org/wiki/Altria,-1
-23,AMZN,Amazon,https://en.wikipedia.org/wiki/Amazon_(company),10
-24,AMCR,Amcor,https://en.wikipedia.org/wiki/Amcor,-1
-25,AEE,Ameren,https://en.wikipedia.org/wiki/Ameren,3
-26,AEP,American Electric Power,https://en.wikipedia.org/wiki/American_Electric_Power,3
+12,ABNB,Airbnb,https://en.wikipedia.org/wiki/Airbnb,14
+13,AKAM,Akamai Technologies,https://en.wikipedia.org/wiki/Akamai_Technologies,32
+14,ALB,Albemarle Corporation,https://en.wikipedia.org/wiki/Albemarle_Corporation,7
+15,ARE,Alexandria Real Estate Equities,https://en.wikipedia.org/wiki/Alexandria_Real_Estate_Equities,5
+16,ALGN,Align Technology,https://en.wikipedia.org/wiki/Align_Technology,26
+17,ALLE,Allegion,https://en.wikipedia.org/wiki/Allegion,-1
+18,LNT,Alliant Energy,https://en.wikipedia.org/wiki/Alliant_Energy,2
+19,ALL,Allstate,https://en.wikipedia.org/wiki/Allstate,27
+20,GOOGL,Alphabet Inc. (Class A),https://en.wikipedia.org/wiki/Alphabet_Inc.,29
+21,GOOG,Alphabet Inc. (Class C),https://en.wikipedia.org/wiki/Alphabet_Inc.,29
+22,MO,Altria,https://en.wikipedia.org/wiki/Altria,7
+23,AMZN,Amazon,https://en.wikipedia.org/wiki/Amazon_(company),29
+24,AMCR,Amcor,https://en.wikipedia.org/wiki/Amcor,7
+25,AEE,Ameren,https://en.wikipedia.org/wiki/Ameren,2
+26,AEP,American Electric Power,https://en.wikipedia.org/wiki/American_Electric_Power,2
 27,AXP,American Express,https://en.wikipedia.org/wiki/American_Express,-1
-28,AIG,American International Group,https://en.wikipedia.org/wiki/American_International_Group,-1
-29,AMT,American Tower,https://en.wikipedia.org/wiki/American_Tower,7
-30,AWK,American Water Works,https://en.wikipedia.org/wiki/American_Water_Works,3
-31,AMP,Ameriprise Financial,https://en.wikipedia.org/wiki/Ameriprise_Financial,-1
-32,AME,Ametek,https://en.wikipedia.org/wiki/Ametek,-1
-33,AMGN,Amgen,https://en.wikipedia.org/wiki/Amgen,-1
+28,AIG,American International Group,https://en.wikipedia.org/wiki/American_International_Group,27
+29,AMT,American Tower,https://en.wikipedia.org/wiki/American_Tower,5
+30,AWK,American Water Works,https://en.wikipedia.org/wiki/American_Water_Works,6
+31,AMP,Ameriprise Financial,https://en.wikipedia.org/wiki/Ameriprise_Financial,27
+32,AME,Ametek,https://en.wikipedia.org/wiki/Ametek,20
+33,AMGN,Amgen,https://en.wikipedia.org/wiki/Amgen,20
 34,APH,Amphenol,https://en.wikipedia.org/wiki/Amphenol,-1
-35,ADI,Analog Devices,https://en.wikipedia.org/wiki/Analog_Devices,9
-36,AON,Aon plc,https://en.wikipedia.org/wiki/Aon_(company),3
-37,APA,APA Corporation,https://en.wikipedia.org/wiki/APA_Corporation,-1
-38,APO,Apollo Global Management,https://en.wikipedia.org/wiki/Apollo_Global_Management,-1
-39,AAPL,Apple Inc.,https://en.wikipedia.org/wiki/Apple_Inc.,10
-40,AMAT,Applied Materials,https://en.wikipedia.org/wiki/Applied_Materials,9
-41,APP,AppLovin,https://en.wikipedia.org/wiki/AppLovin,-1
-42,APTV,Aptiv,https://en.wikipedia.org/wiki/Aptiv,-1
-43,ACGL,Arch Capital Group,https://en.wikipedia.org/wiki/Arch_Capital_Group,-1
-44,ADM,Archer Daniels Midland,https://en.wikipedia.org/wiki/Archer_Daniels_Midland,-1
-45,ANET,Arista Networks,https://en.wikipedia.org/wiki/Arista_Networks,-1
-46,AJG,Arthur J. Gallagher & Co.,https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.,-1
-47,AIZ,Assurant,https://en.wikipedia.org/wiki/Assurant,-1
-48,T,AT&T,https://en.wikipedia.org/wiki/AT%26T,-1
-49,ATO,Atmos Energy,https://en.wikipedia.org/wiki/Atmos_Energy,3
-50,ADSK,Autodesk,https://en.wikipedia.org/wiki/Autodesk,-1
-51,ADP,Automatic Data Processing,https://en.wikipedia.org/wiki/ADP_(company),-1
-52,AZO,AutoZone,https://en.wikipedia.org/wiki/AutoZone,-1
-53,AVB,AvalonBay Communities,https://en.wikipedia.org/wiki/AvalonBay_Communities,-1
-54,AVY,Avery Dennison,https://en.wikipedia.org/wiki/Avery_Dennison,9
-55,AXON,Axon Enterprise,https://en.wikipedia.org/wiki/Axon_Enterprise,-1
-56,BKR,Baker Hughes,https://en.wikipedia.org/wiki/Baker_Hughes,3
-57,BALL,Ball Corporation,https://en.wikipedia.org/wiki/Ball_Corporation,2
-58,BAC,Bank of America,https://en.wikipedia.org/wiki/Bank_of_America,8
-59,BAX,Baxter International,https://en.wikipedia.org/wiki/Baxter_International,7
-60,BDX,Becton Dickinson,https://en.wikipedia.org/wiki/BD_(company),7
-61,BRK.B,Berkshire Hathaway,https://en.wikipedia.org/wiki/Berkshire_Hathaway,-1
-62,BBY,Best Buy,https://en.wikipedia.org/wiki/Best_Buy,-1
-63,TECH,Bio-Techne,https://en.wikipedia.org/wiki/Bio-Techne,7
-64,BIIB,Biogen,https://en.wikipedia.org/wiki/Biogen,7
-65,BLK,BlackRock,https://en.wikipedia.org/wiki/BlackRock,-1
-66,BX,Blackstone Inc.,https://en.wikipedia.org/wiki/Blackstone_Inc.,-1
-67,XYZ,"Block, Inc.","https://en.wikipedia.org/wiki/Block,_Inc.",-1
-68,BK,BNY Mellon,https://en.wikipedia.org/wiki/BNY,8
-69,BA,Boeing,https://en.wikipedia.org/wiki/Boeing,-1
-70,BKNG,Booking Holdings,https://en.wikipedia.org/wiki/Booking_Holdings,-1
-71,BSX,Boston Scientific,https://en.wikipedia.org/wiki/Boston_Scientific,-1
-72,BMY,Bristol Myers Squibb,https://en.wikipedia.org/wiki/Bristol_Myers_Squibb,-1
-73,AVGO,Broadcom,https://en.wikipedia.org/wiki/Broadcom,-1
-74,BR,Broadridge Financial Solutions,https://en.wikipedia.org/wiki/Broadridge_Financial_Solutions,8
-75,BRO,Brown & Brown,https://en.wikipedia.org/wiki/Brown_%26_Brown,-1
-76,BF.B,Brown–Forman,https://en.wikipedia.org/wiki/Brown%E2%80%93Forman,-1
+35,ADI,Analog Devices,https://en.wikipedia.org/wiki/Analog_Devices,31
+36,AON,Aon plc,https://en.wikipedia.org/wiki/Aon_(company),27
+37,APA,APA Corporation,https://en.wikipedia.org/wiki/APA_Corporation,2
+38,APO,Apollo Global Management,https://en.wikipedia.org/wiki/Apollo_Global_Management,27
+39,AAPL,Apple Inc.,https://en.wikipedia.org/wiki/Apple_Inc.,29
+40,AMAT,Applied Materials,https://en.wikipedia.org/wiki/Applied_Materials,30
+41,APP,AppLovin,https://en.wikipedia.org/wiki/AppLovin,32
+42,APTV,Aptiv,https://en.wikipedia.org/wiki/Aptiv,26
+43,ACGL,Arch Capital Group,https://en.wikipedia.org/wiki/Arch_Capital_Group,27
+44,ADM,Archer Daniels Midland,https://en.wikipedia.org/wiki/Archer_Daniels_Midland,10
+45,ANET,Arista Networks,https://en.wikipedia.org/wiki/Arista_Networks,32
+46,AJG,Arthur J. Gallagher & Co.,https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.,27
+47,AIZ,Assurant,https://en.wikipedia.org/wiki/Assurant,27
+48,T,AT&T,https://en.wikipedia.org/wiki/AT%26T,3
+49,ATO,Atmos Energy,https://en.wikipedia.org/wiki/Atmos_Energy,2
+50,ADSK,Autodesk,https://en.wikipedia.org/wiki/Autodesk,31
+51,ADP,Automatic Data Processing,https://en.wikipedia.org/wiki/ADP_(company),32
+52,AZO,AutoZone,https://en.wikipedia.org/wiki/AutoZone,12
+53,AVB,AvalonBay Communities,https://en.wikipedia.org/wiki/AvalonBay_Communities,5
+54,AVY,Avery Dennison,https://en.wikipedia.org/wiki/Avery_Dennison,31
+55,AXON,Axon Enterprise,https://en.wikipedia.org/wiki/Axon_Enterprise,31
+56,BKR,Baker Hughes,https://en.wikipedia.org/wiki/Baker_Hughes,1
+57,BALL,Ball Corporation,https://en.wikipedia.org/wiki/Ball_Corporation,10
+58,BAC,Bank of America,https://en.wikipedia.org/wiki/Bank_of_America,24
+59,BAX,Baxter International,https://en.wikipedia.org/wiki/Baxter_International,20
+60,BDX,Becton Dickinson,https://en.wikipedia.org/wiki/BD_(company),20
+61,BRK.B,Berkshire Hathaway,https://en.wikipedia.org/wiki/Berkshire_Hathaway,27
+62,BBY,Best Buy,https://en.wikipedia.org/wiki/Best_Buy,18
+63,TECH,Bio-Techne,https://en.wikipedia.org/wiki/Bio-Techne,20
+64,BIIB,Biogen,https://en.wikipedia.org/wiki/Biogen,20
+65,BLK,BlackRock,https://en.wikipedia.org/wiki/BlackRock,28
+66,BX,Blackstone Inc.,https://en.wikipedia.org/wiki/Blackstone_Inc.,28
+67,XYZ,"Block, Inc.","https://en.wikipedia.org/wiki/Block,_Inc.",23
+68,BK,BNY Mellon,https://en.wikipedia.org/wiki/BNY,24
+69,BA,Boeing,https://en.wikipedia.org/wiki/Boeing,16
+70,BKNG,Booking Holdings,https://en.wikipedia.org/wiki/Booking_Holdings,14
+71,BSX,Boston Scientific,https://en.wikipedia.org/wiki/Boston_Scientific,20
+72,BMY,Bristol Myers Squibb,https://en.wikipedia.org/wiki/Bristol_Myers_Squibb,20
+73,AVGO,Broadcom,https://en.wikipedia.org/wiki/Broadcom,30
+74,BR,Broadridge Financial Solutions,https://en.wikipedia.org/wiki/Broadridge_Financial_Solutions,28
+75,BRO,Brown & Brown,https://en.wikipedia.org/wiki/Brown_%26_Brown,27
+76,BF.B,Brown–Forman,https://en.wikipedia.org/wiki/Brown%E2%80%93Forman,10
 77,BLDR,Builders FirstSource,https://en.wikipedia.org/wiki/Builders_FirstSource,-1
-78,BG,Bunge Global,https://en.wikipedia.org/wiki/Bunge_Global,-1
-79,BXP,"BXP, Inc.","https://en.wikipedia.org/wiki/BXP,_Inc.",-1
-80,CHRW,C.H. Robinson,https://en.wikipedia.org/wiki/C.H._Robinson,-1
-81,CDNS,Cadence Design Systems,https://en.wikipedia.org/wiki/Cadence_Design_Systems,-1
-82,CPT,Camden Property Trust,https://en.wikipedia.org/wiki/Camden_Property_Trust,-1
-83,CPB,Campbell's Company (The),https://en.wikipedia.org/wiki/Campbell%27s,2
-84,COF,Capital One,https://en.wikipedia.org/wiki/Capital_One,-1
-85,CAH,Cardinal Health,https://en.wikipedia.org/wiki/Cardinal_Health,-1
-86,KMX,CarMax,https://en.wikipedia.org/wiki/CarMax,-1
-87,CCL,Carnival,https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc,-1
+78,BG,Bunge Global,https://en.wikipedia.org/wiki/Bunge_Global,24
+79,BXP,"BXP, Inc.","https://en.wikipedia.org/wiki/BXP,_Inc.",5
+80,CHRW,C.H. Robinson,https://en.wikipedia.org/wiki/C.H._Robinson,13
+81,CDNS,Cadence Design Systems,https://en.wikipedia.org/wiki/Cadence_Design_Systems,31
+82,CPT,Camden Property Trust,https://en.wikipedia.org/wiki/Camden_Property_Trust,5
+83,CPB,Campbell's Company (The),https://en.wikipedia.org/wiki/Campbell%27s,10
+84,COF,Capital One,https://en.wikipedia.org/wiki/Capital_One,24
+85,CAH,Cardinal Health,https://en.wikipedia.org/wiki/Cardinal_Health,4
+86,KMX,CarMax,https://en.wikipedia.org/wiki/CarMax,12
+87,CCL,Carnival,https://en.wikipedia.org/wiki/Carnival_Corporation_%26_plc,21
 88,CARR,Carrier Global,https://en.wikipedia.org/wiki/Carrier_Global,-1
-89,CAT,Caterpillar Inc.,https://en.wikipedia.org/wiki/Caterpillar_Inc.,-1
-90,CBOE,Cboe Global Markets,https://en.wikipedia.org/wiki/Cboe_Global_Markets,-1
+89,CAT,Caterpillar Inc.,https://en.wikipedia.org/wiki/Caterpillar_Inc.,15
+90,CBOE,Cboe Global Markets,https://en.wikipedia.org/wiki/Cboe_Global_Markets,13
 91,CBRE,CBRE Group,https://en.wikipedia.org/wiki/CBRE_Group,-1
 92,CDW,CDW Corporation,https://en.wikipedia.org/wiki/CDW,-1
-93,COR,Cencora,https://en.wikipedia.org/wiki/Cencora,-1
-94,CNC,Centene Corporation,https://en.wikipedia.org/wiki/Centene_Corporation,-1
-95,CNP,CenterPoint Energy,https://en.wikipedia.org/wiki/CenterPoint_Energy,3
-96,CF,CF Industries,https://en.wikipedia.org/wiki/CF_Industries,-1
-97,CRL,Charles River Laboratories,https://en.wikipedia.org/wiki/Charles_River_Laboratories,-1
-98,SCHW,Charles Schwab Corporation,https://en.wikipedia.org/wiki/Charles_Schwab_Corporation,8
-99,CHTR,Charter Communications,https://en.wikipedia.org/wiki/Charter_Communications,-1
-100,CVX,Chevron Corporation,https://en.wikipedia.org/wiki/Chevron_Corporation,-1
-101,CMG,Chipotle Mexican Grill,https://en.wikipedia.org/wiki/Chipotle_Mexican_Grill,-1
-102,CB,Chubb Limited,https://en.wikipedia.org/wiki/Chubb_Limited,-1
-103,CHD,Church & Dwight,https://en.wikipedia.org/wiki/Church_%26_Dwight,5
-104,CI,Cigna,https://en.wikipedia.org/wiki/Cigna,-1
-105,CINF,Cincinnati Financial,https://en.wikipedia.org/wiki/Cincinnati_Financial,8
-106,CTAS,Cintas,https://en.wikipedia.org/wiki/Cintas,-1
-107,CSCO,Cisco,https://en.wikipedia.org/wiki/Cisco,-1
-108,C,Citigroup,https://en.wikipedia.org/wiki/Citigroup,-1
-109,CFG,Citizens Financial Group,https://en.wikipedia.org/wiki/Citizens_Financial_Group,8
-110,CLX,Clorox,https://en.wikipedia.org/wiki/Clorox,5
-111,CME,CME Group,https://en.wikipedia.org/wiki/CME_Group,-1
-112,CMS,CMS Energy,https://en.wikipedia.org/wiki/CMS_Energy,3
-113,KO,Coca-Cola Company (The),https://en.wikipedia.org/wiki/The_Coca-Cola_Company,-1
-114,CTSH,Cognizant,https://en.wikipedia.org/wiki/Cognizant,-1
-115,COIN,Coinbase,https://en.wikipedia.org/wiki/Coinbase,-1
+93,COR,Cencora,https://en.wikipedia.org/wiki/Cencora,4
+94,CNC,Centene Corporation,https://en.wikipedia.org/wiki/Centene_Corporation,4
+95,CNP,CenterPoint Energy,https://en.wikipedia.org/wiki/CenterPoint_Energy,2
+96,CF,CF Industries,https://en.wikipedia.org/wiki/CF_Industries,10
+97,CRL,Charles River Laboratories,https://en.wikipedia.org/wiki/Charles_River_Laboratories,20
+98,SCHW,Charles Schwab Corporation,https://en.wikipedia.org/wiki/Charles_Schwab_Corporation,24
+99,CHTR,Charter Communications,https://en.wikipedia.org/wiki/Charter_Communications,3
+100,CVX,Chevron Corporation,https://en.wikipedia.org/wiki/Chevron_Corporation,2
+101,CMG,Chipotle Mexican Grill,https://en.wikipedia.org/wiki/Chipotle_Mexican_Grill,10
+102,CB,Chubb Limited,https://en.wikipedia.org/wiki/Chubb_Limited,27
+103,CHD,Church & Dwight,https://en.wikipedia.org/wiki/Church_%26_Dwight,8
+104,CI,Cigna,https://en.wikipedia.org/wiki/Cigna,27
+105,CINF,Cincinnati Financial,https://en.wikipedia.org/wiki/Cincinnati_Financial,27
+106,CTAS,Cintas,https://en.wikipedia.org/wiki/Cintas,27
+107,CSCO,Cisco,https://en.wikipedia.org/wiki/Cisco,32
+108,C,Citigroup,https://en.wikipedia.org/wiki/Citigroup,24
+109,CFG,Citizens Financial Group,https://en.wikipedia.org/wiki/Citizens_Financial_Group,24
+110,CLX,Clorox,https://en.wikipedia.org/wiki/Clorox,8
+111,CME,CME Group,https://en.wikipedia.org/wiki/CME_Group,13
+112,CMS,CMS Energy,https://en.wikipedia.org/wiki/CMS_Energy,2
+113,KO,Coca-Cola Company (The),https://en.wikipedia.org/wiki/The_Coca-Cola_Company,9
+114,CTSH,Cognizant,https://en.wikipedia.org/wiki/Cognizant,26
+115,COIN,Coinbase,https://en.wikipedia.org/wiki/Coinbase,13
 116,CL,Colgate-Palmolive,https://en.wikipedia.org/wiki/Colgate-Palmolive,-1
-117,CMCSA,Comcast,https://en.wikipedia.org/wiki/Comcast,-1
-118,CAG,Conagra Brands,https://en.wikipedia.org/wiki/Conagra_Brands,-1
-119,COP,ConocoPhillips,https://en.wikipedia.org/wiki/ConocoPhillips,3
-120,ED,Consolidated Edison,https://en.wikipedia.org/wiki/Consolidated_Edison,3
-121,STZ,Constellation Brands,https://en.wikipedia.org/wiki/Constellation_Brands,-1
-122,CEG,Constellation Energy,https://en.wikipedia.org/wiki/Constellation_Energy,3
-123,COO,Cooper Companies (The),https://en.wikipedia.org/wiki/The_Cooper_Companies,7
-124,CPRT,Copart,https://en.wikipedia.org/wiki/Copart,5
-125,GLW,Corning Inc.,https://en.wikipedia.org/wiki/Corning_Inc.,-1
-126,CPAY,Corpay,https://en.wikipedia.org/wiki/Corpay,-1
+117,CMCSA,Comcast,https://en.wikipedia.org/wiki/Comcast,3
+118,CAG,Conagra Brands,https://en.wikipedia.org/wiki/Conagra_Brands,10
+119,COP,ConocoPhillips,https://en.wikipedia.org/wiki/ConocoPhillips,2
+120,ED,Consolidated Edison,https://en.wikipedia.org/wiki/Consolidated_Edison,2
+121,STZ,Constellation Brands,https://en.wikipedia.org/wiki/Constellation_Brands,9
+122,CEG,Constellation Energy,https://en.wikipedia.org/wiki/Constellation_Energy,2
+123,COO,Cooper Companies (The),https://en.wikipedia.org/wiki/The_Cooper_Companies,-1
+124,CPRT,Copart,https://en.wikipedia.org/wiki/Copart,12
+125,GLW,Corning Inc.,https://en.wikipedia.org/wiki/Corning_Inc.,7
+126,CPAY,Corpay,https://en.wikipedia.org/wiki/Corpay,23
 127,CTVA,Corteva,https://en.wikipedia.org/wiki/Corteva,-1
-128,CSGP,CoStar Group,https://en.wikipedia.org/wiki/CoStar_Group,7
-129,COST,Costco,https://en.wikipedia.org/wiki/Costco,-1
-130,CTRA,Coterra,https://en.wikipedia.org/wiki/Coterra,3
+128,CSGP,CoStar Group,https://en.wikipedia.org/wiki/CoStar_Group,14
+129,COST,Costco,https://en.wikipedia.org/wiki/Costco,18
+130,CTRA,Coterra,https://en.wikipedia.org/wiki/Coterra,2
 131,CRWD,CrowdStrike,https://en.wikipedia.org/wiki/CrowdStrike,-1
-132,CCI,Crown Castle,https://en.wikipedia.org/wiki/Crown_Castle,7
+132,CCI,Crown Castle,https://en.wikipedia.org/wiki/Crown_Castle,5
 133,CSX,CSX Corporation,https://en.wikipedia.org/wiki/CSX_Corporation,-1
-134,CMI,Cummins,https://en.wikipedia.org/wiki/Cummins,-1
-135,CVS,CVS Health,https://en.wikipedia.org/wiki/CVS_Health,-1
-136,DHR,Danaher Corporation,https://en.wikipedia.org/wiki/Danaher_Corporation,-1
-137,DRI,Darden Restaurants,https://en.wikipedia.org/wiki/Darden_Restaurants,1
-138,DDOG,Datadog,https://en.wikipedia.org/wiki/Datadog,-1
-139,DVA,DaVita,https://en.wikipedia.org/wiki/DaVita,-1
-140,DAY,Dayforce,https://en.wikipedia.org/wiki/Dayforce,-1
-141,DECK,Deckers Brands,https://en.wikipedia.org/wiki/Deckers_Brands,-1
-142,DE,Deere & Company,https://en.wikipedia.org/wiki/John_Deere,-1
+134,CMI,Cummins,https://en.wikipedia.org/wiki/Cummins,15
+135,CVS,CVS Health,https://en.wikipedia.org/wiki/CVS_Health,4
+136,DHR,Danaher Corporation,https://en.wikipedia.org/wiki/Danaher_Corporation,20
+137,DRI,Darden Restaurants,https://en.wikipedia.org/wiki/Darden_Restaurants,18
+138,DDOG,Datadog,https://en.wikipedia.org/wiki/Datadog,32
+139,DVA,DaVita,https://en.wikipedia.org/wiki/DaVita,20
+140,DAY,Dayforce,https://en.wikipedia.org/wiki/Dayforce,32
+141,DECK,Deckers Brands,https://en.wikipedia.org/wiki/Deckers_Brands,18
+142,DE,Deere & Company,https://en.wikipedia.org/wiki/John_Deere,15
 143,DELL,Dell Technologies,https://en.wikipedia.org/wiki/Dell_Technologies,-1
-144,DAL,Delta Air Lines,https://en.wikipedia.org/wiki/Delta_Air_Lines,-1
-145,DVN,Devon Energy,https://en.wikipedia.org/wiki/Devon_Energy,3
-146,DXCM,Dexcom,https://en.wikipedia.org/wiki/Dexcom,-1
-147,FANG,Diamondback Energy,https://en.wikipedia.org/wiki/Diamondback_Energy,-1
-148,DLR,Digital Realty,https://en.wikipedia.org/wiki/Digital_Realty,-1
-149,DG,Dollar General,https://en.wikipedia.org/wiki/Dollar_General,-1
-150,DLTR,Dollar Tree,https://en.wikipedia.org/wiki/Dollar_Tree,-1
-151,D,Dominion Energy,https://en.wikipedia.org/wiki/Dominion_Energy,3
-152,DPZ,Domino's,https://en.wikipedia.org/wiki/Domino%27s,1
-153,DASH,DoorDash,https://en.wikipedia.org/wiki/DoorDash,-1
-154,DOV,Dover Corporation,https://en.wikipedia.org/wiki/Dover_Corporation,-1
-155,DOW,Dow Inc.,https://en.wikipedia.org/wiki/Dow_Chemical_Company,-1
-156,DHI,D. R. Horton,https://en.wikipedia.org/wiki/D._R._Horton,-1
-157,DTE,DTE Energy,https://en.wikipedia.org/wiki/DTE_Energy,3
-158,DUK,Duke Energy,https://en.wikipedia.org/wiki/Duke_Energy,3
-159,DD,DuPont,https://en.wikipedia.org/wiki/DuPont,-1
-160,EMN,Eastman Chemical Company,https://en.wikipedia.org/wiki/Eastman_Chemical_Company,-1
-161,ETN,Eaton Corporation,https://en.wikipedia.org/wiki/Eaton_Corporation,-1
-162,EBAY,eBay Inc.,https://en.wikipedia.org/wiki/EBay,-1
+144,DAL,Delta Air Lines,https://en.wikipedia.org/wiki/Delta_Air_Lines,17
+145,DVN,Devon Energy,https://en.wikipedia.org/wiki/Devon_Energy,2
+146,DXCM,Dexcom,https://en.wikipedia.org/wiki/Dexcom,20
+147,FANG,Diamondback Energy,https://en.wikipedia.org/wiki/Diamondback_Energy,2
+148,DLR,Digital Realty,https://en.wikipedia.org/wiki/Digital_Realty,5
+149,DG,Dollar General,https://en.wikipedia.org/wiki/Dollar_General,18
+150,DLTR,Dollar Tree,https://en.wikipedia.org/wiki/Dollar_Tree,18
+151,D,Dominion Energy,https://en.wikipedia.org/wiki/Dominion_Energy,2
+152,DPZ,Domino's,https://en.wikipedia.org/wiki/Domino%27s,18
+153,DASH,DoorDash,https://en.wikipedia.org/wiki/DoorDash,18
+154,DOV,Dover Corporation,https://en.wikipedia.org/wiki/Dover_Corporation,8
+155,DOW,Dow Inc.,https://en.wikipedia.org/wiki/Dow_Chemical_Company,8
+156,DHI,D. R. Horton,https://en.wikipedia.org/wiki/D._R._Horton,18
+157,DTE,DTE Energy,https://en.wikipedia.org/wiki/DTE_Energy,2
+158,DUK,Duke Energy,https://en.wikipedia.org/wiki/Duke_Energy,2
+159,DD,DuPont,https://en.wikipedia.org/wiki/DuPont,8
+160,EMN,Eastman Chemical Company,https://en.wikipedia.org/wiki/Eastman_Chemical_Company,8
+161,ETN,Eaton Corporation,https://en.wikipedia.org/wiki/Eaton_Corporation,2
+162,EBAY,eBay Inc.,https://en.wikipedia.org/wiki/EBay,13
 163,ECL,Ecolab,https://en.wikipedia.org/wiki/Ecolab,-1
-164,EIX,Edison International,https://en.wikipedia.org/wiki/Edison_International,3
-165,EW,Edwards Lifesciences,https://en.wikipedia.org/wiki/Edwards_Lifesciences,-1
-166,EA,Electronic Arts,https://en.wikipedia.org/wiki/Electronic_Arts,-1
-167,ELV,Elevance Health,https://en.wikipedia.org/wiki/Elevance_Health,-1
-168,EME,Emcor,https://en.wikipedia.org/wiki/Emcor,-1
-169,EMR,Emerson Electric,https://en.wikipedia.org/wiki/Emerson_Electric,3
-170,ETR,Entergy,https://en.wikipedia.org/wiki/Entergy,3
-171,EOG,EOG Resources,https://en.wikipedia.org/wiki/EOG_Resources,3
-172,EPAM,EPAM Systems,https://en.wikipedia.org/wiki/EPAM_Systems,-1
-173,EQT,EQT Corporation,https://en.wikipedia.org/wiki/EQT_Corporation,3
-174,EFX,Equifax,https://en.wikipedia.org/wiki/Equifax,-1
-175,EQIX,Equinix,https://en.wikipedia.org/wiki/Equinix,-1
-176,EQR,Equity Residential,https://en.wikipedia.org/wiki/Equity_Residential,7
-177,ERIE,Erie Indemnity,https://en.wikipedia.org/wiki/Erie_Insurance_Group,-1
-178,ESS,Essex Property Trust,https://en.wikipedia.org/wiki/Essex_Property_Trust,7
-179,EL,Estée Lauder Companies (The),https://en.wikipedia.org/wiki/The_Est%C3%A9e_Lauder_Companies,-1
-180,EG,Everest Group,https://en.wikipedia.org/wiki/Everest_Group,-1
-181,EVRG,Evergy,https://en.wikipedia.org/wiki/Evergy,3
-182,ES,Eversource Energy,https://en.wikipedia.org/wiki/Eversource_Energy,3
-183,EXC,Exelon,https://en.wikipedia.org/wiki/Exelon,3
-184,EXE,Expand Energy,https://en.wikipedia.org/wiki/Expand_Energy,3
-185,EXPE,Expedia Group,https://en.wikipedia.org/wiki/Expedia_Group,-1
-186,EXPD,Expeditors International,https://en.wikipedia.org/wiki/Expeditors_International,-1
-187,EXR,Extra Space Storage,https://en.wikipedia.org/wiki/Extra_Space_Storage,7
-188,XOM,ExxonMobil,https://en.wikipedia.org/wiki/ExxonMobil,-1
-189,FFIV,"F5, Inc.","https://en.wikipedia.org/wiki/F5,_Inc.",10
-190,FDS,FactSet,https://en.wikipedia.org/wiki/FactSet,10
-191,FICO,Fair Isaac,https://en.wikipedia.org/wiki/FICO,-1
-192,FAST,Fastenal,https://en.wikipedia.org/wiki/Fastenal,-1
-193,FRT,Federal Realty Investment Trust,https://en.wikipedia.org/wiki/Federal_Realty_Investment_Trust,7
-194,FDX,FedEx,https://en.wikipedia.org/wiki/FedEx,-1
-195,FIS,Fidelity National Information Services,https://en.wikipedia.org/wiki/FIS_(company),10
-196,FITB,Fifth Third Bancorp,https://en.wikipedia.org/wiki/Fifth_Third_Bancorp,8
-197,FSLR,First Solar,https://en.wikipedia.org/wiki/First_Solar,-1
-198,FE,FirstEnergy,https://en.wikipedia.org/wiki/FirstEnergy,3
-199,FI,Fiserv,https://en.wikipedia.org/wiki/Fiserv,10
-200,F,Ford Motor Company,https://en.wikipedia.org/wiki/Ford_Motor_Company,-1
-201,FTNT,Fortinet,https://en.wikipedia.org/wiki/Fortinet,-1
-202,FTV,Fortive,https://en.wikipedia.org/wiki/Fortive,-1
-203,FOXA,Fox Corporation (Class A),https://en.wikipedia.org/wiki/Fox_Corporation,-1
-204,FOX,Fox Corporation (Class B),https://en.wikipedia.org/wiki/Fox_Corporation,-1
-205,BEN,Franklin Resources,https://en.wikipedia.org/wiki/Franklin_Templeton_Investments,-1
-206,FCX,Freeport-McMoRan,https://en.wikipedia.org/wiki/Freeport-McMoRan,-1
-207,GRMN,Garmin,https://en.wikipedia.org/wiki/Garmin,-1
-208,IT,Gartner,https://en.wikipedia.org/wiki/Gartner,-1
-209,GE,GE Aerospace,https://en.wikipedia.org/wiki/GE_Aerospace,-1
-210,GEHC,GE HealthCare,https://en.wikipedia.org/wiki/GE_HealthCare,-1
+164,EIX,Edison International,https://en.wikipedia.org/wiki/Edison_International,2
+165,EW,Edwards Lifesciences,https://en.wikipedia.org/wiki/Edwards_Lifesciences,20
+166,EA,Electronic Arts,https://en.wikipedia.org/wiki/Electronic_Arts,31
+167,ELV,Elevance Health,https://en.wikipedia.org/wiki/Elevance_Health,4
+168,EME,Emcor,https://en.wikipedia.org/wiki/Emcor,2
+169,EMR,Emerson Electric,https://en.wikipedia.org/wiki/Emerson_Electric,2
+170,ETR,Entergy,https://en.wikipedia.org/wiki/Entergy,2
+171,EOG,EOG Resources,https://en.wikipedia.org/wiki/EOG_Resources,2
+172,EPAM,EPAM Systems,https://en.wikipedia.org/wiki/EPAM_Systems,31
+173,EQT,EQT Corporation,https://en.wikipedia.org/wiki/EQT_Corporation,2
+174,EFX,Equifax,https://en.wikipedia.org/wiki/Equifax,25
+175,EQIX,Equinix,https://en.wikipedia.org/wiki/Equinix,5
+176,EQR,Equity Residential,https://en.wikipedia.org/wiki/Equity_Residential,5
+177,ERIE,Erie Indemnity,https://en.wikipedia.org/wiki/Erie_Insurance_Group,27
+178,ESS,Essex Property Trust,https://en.wikipedia.org/wiki/Essex_Property_Trust,5
+179,EL,Estée Lauder Companies (The),https://en.wikipedia.org/wiki/The_Est%C3%A9e_Lauder_Companies,18
+180,EG,Everest Group,https://en.wikipedia.org/wiki/Everest_Group,27
+181,EVRG,Evergy,https://en.wikipedia.org/wiki/Evergy,2
+182,ES,Eversource Energy,https://en.wikipedia.org/wiki/Eversource_Energy,2
+183,EXC,Exelon,https://en.wikipedia.org/wiki/Exelon,2
+184,EXE,Expand Energy,https://en.wikipedia.org/wiki/Expand_Energy,2
+185,EXPE,Expedia Group,https://en.wikipedia.org/wiki/Expedia_Group,14
+186,EXPD,Expeditors International,https://en.wikipedia.org/wiki/Expeditors_International,13
+187,EXR,Extra Space Storage,https://en.wikipedia.org/wiki/Extra_Space_Storage,5
+188,XOM,ExxonMobil,https://en.wikipedia.org/wiki/ExxonMobil,2
+189,FFIV,"F5, Inc.","https://en.wikipedia.org/wiki/F5,_Inc.",25
+190,FDS,FactSet,https://en.wikipedia.org/wiki/FactSet,25
+191,FICO,Fair Isaac,https://en.wikipedia.org/wiki/FICO,25
+192,FAST,Fastenal,https://en.wikipedia.org/wiki/Fastenal,13
+193,FRT,Federal Realty Investment Trust,https://en.wikipedia.org/wiki/Federal_Realty_Investment_Trust,5
+194,FDX,FedEx,https://en.wikipedia.org/wiki/FedEx,13
+195,FIS,Fidelity National Information Services,https://en.wikipedia.org/wiki/FIS_(company),25
+196,FITB,Fifth Third Bancorp,https://en.wikipedia.org/wiki/Fifth_Third_Bancorp,24
+197,FSLR,First Solar,https://en.wikipedia.org/wiki/First_Solar,30
+198,FE,FirstEnergy,https://en.wikipedia.org/wiki/FirstEnergy,2
+199,FI,Fiserv,https://en.wikipedia.org/wiki/Fiserv,25
+200,F,Ford Motor Company,https://en.wikipedia.org/wiki/Ford_Motor_Company,16
+201,FTNT,Fortinet,https://en.wikipedia.org/wiki/Fortinet,25
+202,FTV,Fortive,https://en.wikipedia.org/wiki/Fortive,25
+203,FOXA,Fox Corporation (Class A),https://en.wikipedia.org/wiki/Fox_Corporation,19
+204,FOX,Fox Corporation (Class B),https://en.wikipedia.org/wiki/Fox_Corporation,19
+205,BEN,Franklin Resources,https://en.wikipedia.org/wiki/Franklin_Templeton_Investments,13
+206,FCX,Freeport-McMoRan,https://en.wikipedia.org/wiki/Freeport-McMoRan,0
+207,GRMN,Garmin,https://en.wikipedia.org/wiki/Garmin,16
+208,IT,Gartner,https://en.wikipedia.org/wiki/Gartner,16
+209,GE,GE Aerospace,https://en.wikipedia.org/wiki/GE_Aerospace,16
+210,GEHC,GE HealthCare,https://en.wikipedia.org/wiki/GE_HealthCare,20
 211,GEV,GE Vernova,https://en.wikipedia.org/wiki/GE_Vernova,-1
-212,GEN,Gen Digital,https://en.wikipedia.org/wiki/Gen_Digital,1
-213,GNRC,Generac,https://en.wikipedia.org/wiki/Generac,-1
-214,GD,General Dynamics,https://en.wikipedia.org/wiki/General_Dynamics,-1
-215,GIS,General Mills,https://en.wikipedia.org/wiki/General_Mills,-1
-216,GM,General Motors,https://en.wikipedia.org/wiki/General_Motors,-1
-217,GPC,Genuine Parts Company,https://en.wikipedia.org/wiki/Genuine_Parts_Company,4
-218,GILD,Gilead Sciences,https://en.wikipedia.org/wiki/Gilead_Sciences,-1
-219,GPN,Global Payments,https://en.wikipedia.org/wiki/Global_Payments,-1
-220,GL,Globe Life,https://en.wikipedia.org/wiki/Globe_Life,-1
-221,GDDY,GoDaddy,https://en.wikipedia.org/wiki/GoDaddy,1
-222,GS,Goldman Sachs,https://en.wikipedia.org/wiki/Goldman_Sachs,-1
-223,HAL,Halliburton,https://en.wikipedia.org/wiki/Halliburton,-1
-224,HIG,Hartford (The),https://en.wikipedia.org/wiki/The_Hartford,-1
-225,HAS,Hasbro,https://en.wikipedia.org/wiki/Hasbro,2
-226,HCA,HCA Healthcare,https://en.wikipedia.org/wiki/HCA_Healthcare,-1
-227,DOC,Healthpeak Properties,https://en.wikipedia.org/wiki/Healthpeak_Properties,-1
-228,HSIC,Henry Schein,https://en.wikipedia.org/wiki/Henry_Schein,-1
-229,HSY,Hershey Company (The),https://en.wikipedia.org/wiki/The_Hershey_Company,2
-230,HPE,Hewlett Packard Enterprise,https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise,-1
-231,HLT,Hilton Worldwide,https://en.wikipedia.org/wiki/Hilton_Worldwide,-1
-232,HOLX,Hologic,https://en.wikipedia.org/wiki/Hologic,-1
-233,HD,Home Depot (The),https://en.wikipedia.org/wiki/Home_Depot,-1
+212,GEN,Gen Digital,https://en.wikipedia.org/wiki/Gen_Digital,16
+213,GNRC,Generac,https://en.wikipedia.org/wiki/Generac,16
+214,GD,General Dynamics,https://en.wikipedia.org/wiki/General_Dynamics,16
+215,GIS,General Mills,https://en.wikipedia.org/wiki/General_Mills,10
+216,GM,General Motors,https://en.wikipedia.org/wiki/General_Motors,16
+217,GPC,Genuine Parts Company,https://en.wikipedia.org/wiki/Genuine_Parts_Company,15
+218,GILD,Gilead Sciences,https://en.wikipedia.org/wiki/Gilead_Sciences,20
+219,GPN,Global Payments,https://en.wikipedia.org/wiki/Global_Payments,23
+220,GL,Globe Life,https://en.wikipedia.org/wiki/Globe_Life,27
+221,GDDY,GoDaddy,https://en.wikipedia.org/wiki/GoDaddy,-1
+222,GS,Goldman Sachs,https://en.wikipedia.org/wiki/Goldman_Sachs,24
+223,HAL,Halliburton,https://en.wikipedia.org/wiki/Halliburton,1
+224,HIG,Hartford (The),https://en.wikipedia.org/wiki/The_Hartford,27
+225,HAS,Hasbro,https://en.wikipedia.org/wiki/Hasbro,-1
+226,HCA,HCA Healthcare,https://en.wikipedia.org/wiki/HCA_Healthcare,4
+227,DOC,Healthpeak Properties,https://en.wikipedia.org/wiki/Healthpeak_Properties,5
+228,HSIC,Henry Schein,https://en.wikipedia.org/wiki/Henry_Schein,4
+229,HSY,Hershey Company (The),https://en.wikipedia.org/wiki/The_Hershey_Company,10
+230,HPE,Hewlett Packard Enterprise,https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise,16
+231,HLT,Hilton Worldwide,https://en.wikipedia.org/wiki/Hilton_Worldwide,22
+232,HOLX,Hologic,https://en.wikipedia.org/wiki/Hologic,20
+233,HD,Home Depot (The),https://en.wikipedia.org/wiki/Home_Depot,18
 234,HON,Honeywell,https://en.wikipedia.org/wiki/Honeywell,-1
-235,HRL,Hormel Foods,https://en.wikipedia.org/wiki/Hormel_Foods,2
-236,HST,Host Hotels & Resorts,https://en.wikipedia.org/wiki/Host_Hotels_%26_Resorts,-1
-237,HWM,Howmet Aerospace,https://en.wikipedia.org/wiki/Howmet_Aerospace,-1
-238,HPQ,HP Inc.,https://en.wikipedia.org/wiki/HP_Inc.,-1
+235,HRL,Hormel Foods,https://en.wikipedia.org/wiki/Hormel_Foods,10
+236,HST,Host Hotels & Resorts,https://en.wikipedia.org/wiki/Host_Hotels_%26_Resorts,22
+237,HWM,Howmet Aerospace,https://en.wikipedia.org/wiki/Howmet_Aerospace,16
+238,HPQ,HP Inc.,https://en.wikipedia.org/wiki/HP_Inc.,16
 239,HUBB,Hubbell Incorporated,https://en.wikipedia.org/wiki/Hubbell_Incorporated,-1
-240,HUM,Humana,https://en.wikipedia.org/wiki/Humana,-1
-241,HBAN,Huntington Bancshares,https://en.wikipedia.org/wiki/Huntington_Bancshares,8
-242,HII,Huntington Ingalls Industries,https://en.wikipedia.org/wiki/Huntington_Ingalls_Industries,-1
-243,IBM,IBM,https://en.wikipedia.org/wiki/IBM,-1
-244,IEX,IDEX Corporation,https://en.wikipedia.org/wiki/IDEX_Corporation,-1
-245,IDXX,Idexx Laboratories,https://en.wikipedia.org/wiki/Idexx_Laboratories,-1
-246,ITW,Illinois Tool Works,https://en.wikipedia.org/wiki/Illinois_Tool_Works,-1
-247,INCY,Incyte,https://en.wikipedia.org/wiki/Incyte,-1
-248,IR,Ingersoll Rand,https://en.wikipedia.org/wiki/Ingersoll_Rand,-1
+240,HUM,Humana,https://en.wikipedia.org/wiki/Humana,4
+241,HBAN,Huntington Bancshares,https://en.wikipedia.org/wiki/Huntington_Bancshares,24
+242,HII,Huntington Ingalls Industries,https://en.wikipedia.org/wiki/Huntington_Ingalls_Industries,16
+243,IBM,IBM,https://en.wikipedia.org/wiki/IBM,30
+244,IEX,IDEX Corporation,https://en.wikipedia.org/wiki/IDEX_Corporation,20
+245,IDXX,Idexx Laboratories,https://en.wikipedia.org/wiki/Idexx_Laboratories,20
+246,ITW,Illinois Tool Works,https://en.wikipedia.org/wiki/Illinois_Tool_Works,11
+247,INCY,Incyte,https://en.wikipedia.org/wiki/Incyte,20
+248,IR,Ingersoll Rand,https://en.wikipedia.org/wiki/Ingersoll_Rand,11
 250,INTC,Intel,https://en.wikipedia.org/wiki/Intel,-1
-251,IBKR,Interactive Brokers,https://en.wikipedia.org/wiki/Interactive_Brokers,-1
-252,ICE,Intercontinental Exchange,https://en.wikipedia.org/wiki/Intercontinental_Exchange,-1
-253,IFF,International Flavors & Fragrances,https://en.wikipedia.org/wiki/International_Flavors_%26_Fragrances,-1
-254,IP,International Paper,https://en.wikipedia.org/wiki/International_Paper,-1
-255,IPG,Interpublic Group of Companies (The),https://en.wikipedia.org/wiki/The_Interpublic_Group_of_Companies,4
+251,IBKR,Interactive Brokers,https://en.wikipedia.org/wiki/Interactive_Brokers,13
+252,ICE,Intercontinental Exchange,https://en.wikipedia.org/wiki/Intercontinental_Exchange,13
+254,IP,International Paper,https://en.wikipedia.org/wiki/International_Paper,8
+255,IPG,Interpublic Group of Companies (The),https://en.wikipedia.org/wiki/The_Interpublic_Group_of_Companies,-1
 256,INTU,Intuit,https://en.wikipedia.org/wiki/Intuit,-1
-257,ISRG,Intuitive Surgical,https://en.wikipedia.org/wiki/Intuitive_Surgical,6
+257,ISRG,Intuitive Surgical,https://en.wikipedia.org/wiki/Intuitive_Surgical,20
 258,IVZ,Invesco,https://en.wikipedia.org/wiki/Invesco,-1
-259,INVH,Invitation Homes,https://en.wikipedia.org/wiki/Invitation_Homes,-1
-260,IQV,IQVIA,https://en.wikipedia.org/wiki/IQVIA,7
-261,IRM,Iron Mountain,https://en.wikipedia.org/wiki/Iron_Mountain_(company),-1
+259,INVH,Invitation Homes,https://en.wikipedia.org/wiki/Invitation_Homes,22
+260,IQV,IQVIA,https://en.wikipedia.org/wiki/IQVIA,20
+261,IRM,Iron Mountain,https://en.wikipedia.org/wiki/Iron_Mountain_(company),0
 262,JBHT,J.B. Hunt,https://en.wikipedia.org/wiki/J.B._Hunt,-1
 263,JBL,Jabil,https://en.wikipedia.org/wiki/Jabil,-1
-264,JKHY,Jack Henry & Associates,https://en.wikipedia.org/wiki/Jack_Henry_%26_Associates,-1
+264,JKHY,Jack Henry & Associates,https://en.wikipedia.org/wiki/Jack_Henry_%26_Associates,28
 265,J,Jacobs Solutions,https://en.wikipedia.org/wiki/Jacobs_Solutions,-1
 266,JNJ,Johnson & Johnson,https://en.wikipedia.org/wiki/Johnson_%26_Johnson,-1
 267,JCI,Johnson Controls,https://en.wikipedia.org/wiki/Johnson_Controls,-1
-268,JPM,JPMorgan Chase,https://en.wikipedia.org/wiki/JPMorgan_Chase,8
-269,K,Kellanova,https://en.wikipedia.org/wiki/Kellanova,-1
-270,KVUE,Kenvue,https://en.wikipedia.org/wiki/Kenvue,-1
-271,KDP,Keurig Dr Pepper,https://en.wikipedia.org/wiki/Keurig_Dr_Pepper,-1
-272,KEY,KeyCorp,https://en.wikipedia.org/wiki/KeyCorp,8
-273,KEYS,Keysight Technologies,https://en.wikipedia.org/wiki/Keysight_Technologies,-1
-274,KMB,Kimberly-Clark,https://en.wikipedia.org/wiki/Kimberly-Clark,-1
-275,KIM,Kimco Realty,https://en.wikipedia.org/wiki/Kimco_Realty,-1
-276,KMI,Kinder Morgan,https://en.wikipedia.org/wiki/Kinder_Morgan,3
-277,KKR,KKR & Co.,https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts,-1
-278,KLAC,KLA Corporation,https://en.wikipedia.org/wiki/KLA_Corporation,9
-279,KHC,Kraft Heinz,https://en.wikipedia.org/wiki/Kraft_Heinz,-1
-280,KR,Kroger,https://en.wikipedia.org/wiki/Kroger,-1
-281,LHX,L3Harris,https://en.wikipedia.org/wiki/L3Harris,-1
-282,LH,Labcorp,https://en.wikipedia.org/wiki/Labcorp,7
+268,JPM,JPMorgan Chase,https://en.wikipedia.org/wiki/JPMorgan_Chase,24
+269,K,Kellanova,https://en.wikipedia.org/wiki/Kellanova,10
+270,KVUE,Kenvue,https://en.wikipedia.org/wiki/Kenvue,20
+271,KDP,Keurig Dr Pepper,https://en.wikipedia.org/wiki/Keurig_Dr_Pepper,9
+272,KEY,KeyCorp,https://en.wikipedia.org/wiki/KeyCorp,24
+273,KEYS,Keysight Technologies,https://en.wikipedia.org/wiki/Keysight_Technologies,20
+274,KMB,Kimberly-Clark,https://en.wikipedia.org/wiki/Kimberly-Clark,8
+275,KIM,Kimco Realty,https://en.wikipedia.org/wiki/Kimco_Realty,5
+276,KMI,Kinder Morgan,https://en.wikipedia.org/wiki/Kinder_Morgan,2
+277,KKR,KKR & Co.,https://en.wikipedia.org/wiki/Kohlberg_Kravis_Roberts,28
+278,KLAC,KLA Corporation,https://en.wikipedia.org/wiki/KLA_Corporation,-1
+279,KHC,Kraft Heinz,https://en.wikipedia.org/wiki/Kraft_Heinz,10
+280,KR,Kroger,https://en.wikipedia.org/wiki/Kroger,18
+281,LHX,L3Harris,https://en.wikipedia.org/wiki/L3Harris,16
+282,LH,Labcorp,https://en.wikipedia.org/wiki/Labcorp,20
 283,LRCX,Lam Research,https://en.wikipedia.org/wiki/Lam_Research,-1
-284,LW,Lamb Weston,https://en.wikipedia.org/wiki/Lamb_Weston,-1
-285,LVS,Las Vegas Sands,https://en.wikipedia.org/wiki/Las_Vegas_Sands,-1
-286,LDOS,Leidos,https://en.wikipedia.org/wiki/Leidos,-1
+284,LW,Lamb Weston,https://en.wikipedia.org/wiki/Lamb_Weston,10
+285,LVS,Las Vegas Sands,https://en.wikipedia.org/wiki/Las_Vegas_Sands,22
+286,LDOS,Leidos,https://en.wikipedia.org/wiki/Leidos,16
 287,LEN,Lennar,https://en.wikipedia.org/wiki/Lennar,-1
 288,LII,Lennox International,https://en.wikipedia.org/wiki/Lennox_International,-1
-289,LLY,Lilly (Eli),https://en.wikipedia.org/wiki/Eli_Lilly_and_Company,-1
-290,LIN,Linde plc,https://en.wikipedia.org/wiki/Linde_plc,-1
+289,LLY,Lilly (Eli),https://en.wikipedia.org/wiki/Eli_Lilly_and_Company,20
+290,LIN,Linde plc,https://en.wikipedia.org/wiki/Linde_plc,1
 291,LYV,Live Nation Entertainment,https://en.wikipedia.org/wiki/Live_Nation_Entertainment,-1
-292,LKQ,LKQ Corporation,https://en.wikipedia.org/wiki/LKQ_Corporation,-1
-293,LMT,Lockheed Martin,https://en.wikipedia.org/wiki/Lockheed_Martin,-1
-294,L,Loews Corporation,https://en.wikipedia.org/wiki/Loews_Corporation,-1
-295,LOW,Lowe's,https://en.wikipedia.org/wiki/Lowe%27s,-1
-296,LULU,Lululemon Athletica,https://en.wikipedia.org/wiki/Lululemon,-1
-297,LYB,LyondellBasell,https://en.wikipedia.org/wiki/LyondellBasell,-1
-298,MTB,M&T Bank,https://en.wikipedia.org/wiki/M%26T_Bank,8
-299,MPC,Marathon Petroleum,https://en.wikipedia.org/wiki/Marathon_Petroleum,-1
-300,MAR,Marriott International,https://en.wikipedia.org/wiki/Marriott_International,-1
-301,MMC,Marsh McLennan,https://en.wikipedia.org/wiki/Marsh_McLennan,-1
+292,LKQ,LKQ Corporation,https://en.wikipedia.org/wiki/LKQ_Corporation,12
+293,LMT,Lockheed Martin,https://en.wikipedia.org/wiki/Lockheed_Martin,16
+294,L,Loews Corporation,https://en.wikipedia.org/wiki/Loews_Corporation,21
+295,LOW,Lowe's,https://en.wikipedia.org/wiki/Lowe%27s,18
+296,LULU,Lululemon Athletica,https://en.wikipedia.org/wiki/Lululemon,18
+297,LYB,LyondellBasell,https://en.wikipedia.org/wiki/LyondellBasell,1
+298,MTB,M&T Bank,https://en.wikipedia.org/wiki/M%26T_Bank,24
+299,MPC,Marathon Petroleum,https://en.wikipedia.org/wiki/Marathon_Petroleum,2
+300,MAR,Marriott International,https://en.wikipedia.org/wiki/Marriott_International,22
+301,MMC,Marsh McLennan,https://en.wikipedia.org/wiki/Marsh_McLennan,27
 302,MLM,Martin Marietta Materials,https://en.wikipedia.org/wiki/Martin_Marietta_Materials,0
-303,MAS,Masco,https://en.wikipedia.org/wiki/Masco,-1
-304,MA,Mastercard,https://en.wikipedia.org/wiki/Mastercard,-1
-305,MTCH,Match Group,https://en.wikipedia.org/wiki/Match_Group,-1
-306,MKC,McCormick & Company,https://en.wikipedia.org/wiki/McCormick_%26_Company,2
-307,MCD,McDonald's,https://en.wikipedia.org/wiki/McDonald%27s,-1
-308,MCK,McKesson Corporation,https://en.wikipedia.org/wiki/McKesson_Corporation,-1
-309,MDT,Medtronic,https://en.wikipedia.org/wiki/Medtronic,-1
-310,MRK,Merck & Co.,https://en.wikipedia.org/wiki/Merck_%26_Co.,7
-311,META,Meta Platforms,https://en.wikipedia.org/wiki/Meta_Platforms,-1
-312,MET,MetLife,https://en.wikipedia.org/wiki/MetLife,-1
-313,MTD,Mettler Toledo,https://en.wikipedia.org/wiki/Mettler_Toledo,-1
-314,MGM,MGM Resorts,https://en.wikipedia.org/wiki/MGM_Resorts,-1
-315,MCHP,Microchip Technology,https://en.wikipedia.org/wiki/Microchip_Technology,9
-316,MU,Micron Technology,https://en.wikipedia.org/wiki/Micron_Technology,-1
-317,MSFT,Microsoft,https://en.wikipedia.org/wiki/Microsoft,-1
-318,MAA,Mid-America Apartment Communities,https://en.wikipedia.org/wiki/Mid-America_Apartment_Communities,-1
-319,MRNA,Moderna,https://en.wikipedia.org/wiki/Moderna,7
+303,MAS,Masco,https://en.wikipedia.org/wiki/Masco,0
+304,MA,Mastercard,https://en.wikipedia.org/wiki/Mastercard,23
+305,MTCH,Match Group,https://en.wikipedia.org/wiki/Match_Group,14
+306,MKC,McCormick & Company,https://en.wikipedia.org/wiki/McCormick_%26_Company,10
+307,MCD,McDonald's,https://en.wikipedia.org/wiki/McDonald%27s,10
+308,MCK,McKesson Corporation,https://en.wikipedia.org/wiki/McKesson_Corporation,4
+309,MDT,Medtronic,https://en.wikipedia.org/wiki/Medtronic,20
+310,MRK,Merck & Co.,https://en.wikipedia.org/wiki/Merck_%26_Co.,20
+311,META,Meta Platforms,https://en.wikipedia.org/wiki/Meta_Platforms,29
+312,MET,MetLife,https://en.wikipedia.org/wiki/MetLife,27
+313,MTD,Mettler Toledo,https://en.wikipedia.org/wiki/Mettler_Toledo,20
+314,MGM,MGM Resorts,https://en.wikipedia.org/wiki/MGM_Resorts,22
+315,MCHP,Microchip Technology,https://en.wikipedia.org/wiki/Microchip_Technology,30
+316,MU,Micron Technology,https://en.wikipedia.org/wiki/Micron_Technology,30
+317,MSFT,Microsoft,https://en.wikipedia.org/wiki/Microsoft,29
+318,MAA,Mid-America Apartment Communities,https://en.wikipedia.org/wiki/Mid-America_Apartment_Communities,5
+319,MRNA,Moderna,https://en.wikipedia.org/wiki/Moderna,20
 320,MHK,Mohawk Industries,https://en.wikipedia.org/wiki/Mohawk_Industries,0
-321,MOH,Molina Healthcare,https://en.wikipedia.org/wiki/Molina_Healthcare,-1
-322,TAP,Molson Coors Beverage Company,https://en.wikipedia.org/wiki/Molson_Coors,-1
-323,MDLZ,Mondelez International,https://en.wikipedia.org/wiki/Mondelez_International,-1
-324,MPWR,Monolithic Power Systems,https://en.wikipedia.org/wiki/Monolithic_Power_Systems,-1
-325,MNST,Monster Beverage,https://en.wikipedia.org/wiki/Monster_Beverage,-1
-326,MCO,Moody's Corporation,https://en.wikipedia.org/wiki/Moody%27s_Corporation,-1
-327,MS,Morgan Stanley,https://en.wikipedia.org/wiki/Morgan_Stanley,8
+321,MOH,Molina Healthcare,https://en.wikipedia.org/wiki/Molina_Healthcare,4
+322,TAP,Molson Coors Beverage Company,https://en.wikipedia.org/wiki/Molson_Coors,9
+323,MDLZ,Mondelez International,https://en.wikipedia.org/wiki/Mondelez_International,10
+324,MPWR,Monolithic Power Systems,https://en.wikipedia.org/wiki/Monolithic_Power_Systems,30
+325,MNST,Monster Beverage,https://en.wikipedia.org/wiki/Monster_Beverage,9
+326,MCO,Moody's Corporation,https://en.wikipedia.org/wiki/Moody%27s_Corporation,24
+327,MS,Morgan Stanley,https://en.wikipedia.org/wiki/Morgan_Stanley,24
 328,MOS,Mosaic Company (The),https://en.wikipedia.org/wiki/The_Mosaic_Company,0
-329,MSI,Motorola Solutions,https://en.wikipedia.org/wiki/Motorola_Solutions,-1
-330,MSCI,MSCI Inc.,https://en.wikipedia.org/wiki/MSCI,0
-331,NDAQ,"Nasdaq, Inc.","https://en.wikipedia.org/wiki/Nasdaq,_Inc.",-1
-332,NTAP,NetApp,https://en.wikipedia.org/wiki/NetApp,10
+329,MSI,Motorola Solutions,https://en.wikipedia.org/wiki/Motorola_Solutions,30
+330,MSCI,MSCI Inc.,https://en.wikipedia.org/wiki/MSCI,24
+331,NDAQ,"Nasdaq, Inc.","https://en.wikipedia.org/wiki/Nasdaq,_Inc.",13
+332,NTAP,NetApp,https://en.wikipedia.org/wiki/NetApp,32
 333,NFLX,Netflix,"https://en.wikipedia.org/wiki/Netflix,_Inc.",-1
-334,NEM,Newmont,https://en.wikipedia.org/wiki/Newmont,-1
-335,NWSA,News Corp (Class A),https://en.wikipedia.org/wiki/News_Corp,-1
-336,NWS,News Corp (Class B),https://en.wikipedia.org/wiki/News_Corp,-1
-337,NEE,NextEra Energy,https://en.wikipedia.org/wiki/NextEra_Energy,3
+334,NEM,Newmont,https://en.wikipedia.org/wiki/Newmont,0
+335,NWSA,News Corp (Class A),https://en.wikipedia.org/wiki/News_Corp,19
+336,NWS,News Corp (Class B),https://en.wikipedia.org/wiki/News_Corp,19
+337,NEE,NextEra Energy,https://en.wikipedia.org/wiki/NextEra_Energy,2
 338,NKE,"Nike, Inc.","https://en.wikipedia.org/wiki/Nike,_Inc.",-1
-339,NI,NiSource,https://en.wikipedia.org/wiki/NiSource,-1
-340,NDSN,Nordson Corporation,https://en.wikipedia.org/wiki/Nordson_Corporation,-1
+339,NI,NiSource,https://en.wikipedia.org/wiki/NiSource,2
+340,NDSN,Nordson Corporation,https://en.wikipedia.org/wiki/Nordson_Corporation,30
 341,NSC,Norfolk Southern,https://en.wikipedia.org/wiki/Norfolk_Southern_Railway,-1
-342,NTRS,Northern Trust,https://en.wikipedia.org/wiki/Northern_Trust,-1
-343,NOC,Northrop Grumman,https://en.wikipedia.org/wiki/Northrop_Grumman,-1
-344,NCLH,Norwegian Cruise Line Holdings,https://en.wikipedia.org/wiki/Norwegian_Cruise_Line_Holdings,-1
-345,NRG,NRG Energy,https://en.wikipedia.org/wiki/NRG_Energy,3
-346,NUE,Nucor,https://en.wikipedia.org/wiki/Nucor,-1
+342,NTRS,Northern Trust,https://en.wikipedia.org/wiki/Northern_Trust,24
+343,NOC,Northrop Grumman,https://en.wikipedia.org/wiki/Northrop_Grumman,16
+344,NCLH,Norwegian Cruise Line Holdings,https://en.wikipedia.org/wiki/Norwegian_Cruise_Line_Holdings,21
+345,NRG,NRG Energy,https://en.wikipedia.org/wiki/NRG_Energy,2
+346,NUE,Nucor,https://en.wikipedia.org/wiki/Nucor,0
 347,NVDA,Nvidia,https://en.wikipedia.org/wiki/Nvidia,-1
 348,NVR,"NVR, Inc.","https://en.wikipedia.org/wiki/NVR,_Inc.",-1
-349,NXPI,NXP Semiconductors,https://en.wikipedia.org/wiki/NXP_Semiconductors,-1
-350,ORLY,O’Reilly Automotive,https://en.wikipedia.org/wiki/O%27Reilly_Auto_Parts,-1
-351,OXY,Occidental Petroleum,https://en.wikipedia.org/wiki/Occidental_Petroleum,3
-352,ODFL,Old Dominion,https://en.wikipedia.org/wiki/Old_Dominion_Freight_Line,-1
-353,OMC,Omnicom Group,https://en.wikipedia.org/wiki/Omnicom_Group,-1
-354,ON,ON Semiconductor,https://en.wikipedia.org/wiki/Onsemi,9
-355,OKE,Oneok,https://en.wikipedia.org/wiki/Oneok,-1
+349,NXPI,NXP Semiconductors,https://en.wikipedia.org/wiki/NXP_Semiconductors,30
+350,ORLY,O’Reilly Automotive,https://en.wikipedia.org/wiki/O%27Reilly_Auto_Parts,12
+351,OXY,Occidental Petroleum,https://en.wikipedia.org/wiki/Occidental_Petroleum,2
+352,ODFL,Old Dominion,https://en.wikipedia.org/wiki/Old_Dominion_Freight_Line,17
+353,OMC,Omnicom Group,https://en.wikipedia.org/wiki/Omnicom_Group,21
+354,ON,ON Semiconductor,https://en.wikipedia.org/wiki/Onsemi,30
+355,OKE,Oneok,https://en.wikipedia.org/wiki/Oneok,2
 356,ORCL,Oracle Corporation,https://en.wikipedia.org/wiki/Oracle_Corporation,-1
-357,OTIS,Otis Worldwide,https://en.wikipedia.org/wiki/Otis_Worldwide,-1
-358,PCAR,Paccar,https://en.wikipedia.org/wiki/Paccar,-1
-359,PKG,Packaging Corporation of America,https://en.wikipedia.org/wiki/Packaging_Corporation_of_America,-1
-360,PLTR,Palantir Technologies,https://en.wikipedia.org/wiki/Palantir_Technologies,-1
-361,PANW,Palo Alto Networks,https://en.wikipedia.org/wiki/Palo_Alto_Networks,-1
-362,PSKY,Paramount Skydance Corporation,https://en.wikipedia.org/wiki/Paramount_Skydance,-1
-363,PH,Parker Hannifin,https://en.wikipedia.org/wiki/Parker_Hannifin,-1
-364,PAYX,Paychex,https://en.wikipedia.org/wiki/Paychex,-1
-365,PAYC,Paycom,https://en.wikipedia.org/wiki/Paycom,-1
-366,PYPL,PayPal,https://en.wikipedia.org/wiki/PayPal,-1
-367,PNR,Pentair,https://en.wikipedia.org/wiki/Pentair,-1
-368,PEP,PepsiCo,https://en.wikipedia.org/wiki/PepsiCo,2
-369,PFE,Pfizer,https://en.wikipedia.org/wiki/Pfizer,-1
-370,PCG,PG&E Corporation,https://en.wikipedia.org/wiki/PG%26E,-1
-371,PM,Philip Morris International,https://en.wikipedia.org/wiki/Philip_Morris_International,-1
-372,PSX,Phillips 66,https://en.wikipedia.org/wiki/Phillips_66,3
-373,PNW,Pinnacle West Capital,https://en.wikipedia.org/wiki/Pinnacle_West_Capital,-1
-374,PNC,PNC Financial Services,https://en.wikipedia.org/wiki/PNC_Financial_Services,-1
-375,POOL,Pool Corporation,https://en.wikipedia.org/wiki/Pool_Corporation,5
-376,PPG,PPG Industries,https://en.wikipedia.org/wiki/PPG_Industries,4
-377,PPL,PPL Corporation,https://en.wikipedia.org/wiki/PPL_Corporation,-1
-378,PFG,Principal Financial Group,https://en.wikipedia.org/wiki/Principal_Financial_Group,4
+357,OTIS,Otis Worldwide,https://en.wikipedia.org/wiki/Otis_Worldwide,11
+358,PCAR,Paccar,https://en.wikipedia.org/wiki/Paccar,15
+359,PKG,Packaging Corporation of America,https://en.wikipedia.org/wiki/Packaging_Corporation_of_America,7
+360,PLTR,Palantir Technologies,https://en.wikipedia.org/wiki/Palantir_Technologies,26
+361,PANW,Palo Alto Networks,https://en.wikipedia.org/wiki/Palo_Alto_Networks,32
+362,PSKY,Paramount Skydance Corporation,https://en.wikipedia.org/wiki/Paramount_Skydance,19
+363,PH,Parker Hannifin,https://en.wikipedia.org/wiki/Parker_Hannifin,15
+364,PAYX,Paychex,https://en.wikipedia.org/wiki/Paychex,23
+365,PAYC,Paycom,https://en.wikipedia.org/wiki/Paycom,23
+366,PYPL,PayPal,https://en.wikipedia.org/wiki/PayPal,23
+367,PNR,Pentair,https://en.wikipedia.org/wiki/Pentair,15
+368,PEP,PepsiCo,https://en.wikipedia.org/wiki/PepsiCo,9
+369,PFE,Pfizer,https://en.wikipedia.org/wiki/Pfizer,20
+370,PCG,PG&E Corporation,https://en.wikipedia.org/wiki/PG%26E,2
+371,PM,Philip Morris International,https://en.wikipedia.org/wiki/Philip_Morris_International,8
+372,PSX,Phillips 66,https://en.wikipedia.org/wiki/Phillips_66,2
+373,PNW,Pinnacle West Capital,https://en.wikipedia.org/wiki/Pinnacle_West_Capital,2
+374,PNC,PNC Financial Services,https://en.wikipedia.org/wiki/PNC_Financial_Services,24
+375,POOL,Pool Corporation,https://en.wikipedia.org/wiki/Pool_Corporation,15
+376,PPG,PPG Industries,https://en.wikipedia.org/wiki/PPG_Industries,-1
+377,PPL,PPL Corporation,https://en.wikipedia.org/wiki/PPL_Corporation,2
+378,PFG,Principal Financial Group,https://en.wikipedia.org/wiki/Principal_Financial_Group,28
 379,PG,Procter & Gamble,https://en.wikipedia.org/wiki/Procter_%26_Gamble,-1
-380,PGR,Progressive Corporation,https://en.wikipedia.org/wiki/Progressive_Corporation,8
-381,PLD,Prologis,https://en.wikipedia.org/wiki/Prologis,-1
-382,PRU,Prudential Financial,https://en.wikipedia.org/wiki/Prudential_Financial,4
-383,PEG,Public Service Enterprise Group,https://en.wikipedia.org/wiki/Public_Service_Enterprise_Group,-1
-384,PTC,PTC Inc.,https://en.wikipedia.org/wiki/PTC_(software_company),-1
-385,PSA,Public Storage,https://en.wikipedia.org/wiki/Public_Storage,7
+380,PGR,Progressive Corporation,https://en.wikipedia.org/wiki/Progressive_Corporation,27
+381,PLD,Prologis,https://en.wikipedia.org/wiki/Prologis,5
+382,PRU,Prudential Financial,https://en.wikipedia.org/wiki/Prudential_Financial,27
+383,PEG,Public Service Enterprise Group,https://en.wikipedia.org/wiki/Public_Service_Enterprise_Group,2
+384,PTC,PTC Inc.,https://en.wikipedia.org/wiki/PTC_(software_company),26
+385,PSA,Public Storage,https://en.wikipedia.org/wiki/Public_Storage,5
 386,PHM,PulteGroup,https://en.wikipedia.org/wiki/PulteGroup,-1
-387,PWR,Quanta Services,https://en.wikipedia.org/wiki/Quanta_Services,3
-388,QCOM,Qualcomm,https://en.wikipedia.org/wiki/Qualcomm,-1
-389,DGX,Quest Diagnostics,https://en.wikipedia.org/wiki/Quest_Diagnostics,7
-390,RL,Ralph Lauren Corporation,https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation,-1
-391,RJF,Raymond James Financial,https://en.wikipedia.org/wiki/Raymond_James_Financial,8
-392,RTX,RTX Corporation,https://en.wikipedia.org/wiki/RTX_Corporation,-1
-393,O,Realty Income,https://en.wikipedia.org/wiki/Realty_Income,7
-394,REG,Regency Centers,https://en.wikipedia.org/wiki/Regency_Centers,7
-395,REGN,Regeneron Pharmaceuticals,https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals,7
-396,RF,Regions Financial Corporation,https://en.wikipedia.org/wiki/Regions_Financial_Corporation,-1
-397,RSG,Republic Services,https://en.wikipedia.org/wiki/Republic_Services,-1
-398,RMD,ResMed,https://en.wikipedia.org/wiki/ResMed,-1
-399,RVTY,Revvity,https://en.wikipedia.org/wiki/Revvity,7
-400,HOOD,Robinhood Markets,https://en.wikipedia.org/wiki/Robinhood_Markets,-1
-401,ROK,Rockwell Automation,https://en.wikipedia.org/wiki/Rockwell_Automation,-1
-402,ROL,"Rollins, Inc.","https://en.wikipedia.org/wiki/Rollins,_Inc.",-1
-403,ROP,Roper Technologies,https://en.wikipedia.org/wiki/Roper_Technologies,-1
-404,ROST,Ross Stores,https://en.wikipedia.org/wiki/Ross_Stores,1
-405,RCL,Royal Caribbean Group,https://en.wikipedia.org/wiki/Royal_Caribbean_Group,-1
-406,SPGI,S&P Global,https://en.wikipedia.org/wiki/S%26P_Global,-1
-407,CRM,Salesforce,https://en.wikipedia.org/wiki/Salesforce,10
-408,SBAC,SBA Communications,https://en.wikipedia.org/wiki/SBA_Communications,-1
-409,SLB,Schlumberger,https://en.wikipedia.org/wiki/Schlumberger,3
+387,PWR,Quanta Services,https://en.wikipedia.org/wiki/Quanta_Services,2
+388,QCOM,Qualcomm,https://en.wikipedia.org/wiki/Qualcomm,30
+389,DGX,Quest Diagnostics,https://en.wikipedia.org/wiki/Quest_Diagnostics,20
+390,RL,Ralph Lauren Corporation,https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation,18
+391,RJF,Raymond James Financial,https://en.wikipedia.org/wiki/Raymond_James_Financial,28
+392,RTX,RTX Corporation,https://en.wikipedia.org/wiki/RTX_Corporation,26
+393,O,Realty Income,https://en.wikipedia.org/wiki/Realty_Income,5
+394,REG,Regency Centers,https://en.wikipedia.org/wiki/Regency_Centers,5
+395,REGN,Regeneron Pharmaceuticals,https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals,20
+396,RF,Regions Financial Corporation,https://en.wikipedia.org/wiki/Regions_Financial_Corporation,24
+397,RSG,Republic Services,https://en.wikipedia.org/wiki/Republic_Services,6
+398,RMD,ResMed,https://en.wikipedia.org/wiki/ResMed,20
+399,RVTY,Revvity,https://en.wikipedia.org/wiki/Revvity,20
+400,HOOD,Robinhood Markets,https://en.wikipedia.org/wiki/Robinhood_Markets,13
+401,ROK,Rockwell Automation,https://en.wikipedia.org/wiki/Rockwell_Automation,11
+402,ROL,"Rollins, Inc.","https://en.wikipedia.org/wiki/Rollins,_Inc.",11
+403,ROP,Roper Technologies,https://en.wikipedia.org/wiki/Roper_Technologies,13
+404,ROST,Ross Stores,https://en.wikipedia.org/wiki/Ross_Stores,18
+405,RCL,Royal Caribbean Group,https://en.wikipedia.org/wiki/Royal_Caribbean_Group,21
+406,SPGI,S&P Global,https://en.wikipedia.org/wiki/S%26P_Global,24
+407,CRM,Salesforce,https://en.wikipedia.org/wiki/Salesforce,32
+408,SBAC,SBA Communications,https://en.wikipedia.org/wiki/SBA_Communications,5
+409,SLB,Schlumberger,https://en.wikipedia.org/wiki/Schlumberger,1
 410,STX,Seagate Technology,https://en.wikipedia.org/wiki/Seagate_Technology,-1
-411,SRE,Sempra,https://en.wikipedia.org/wiki/Sempra,-1
-412,NOW,ServiceNow,https://en.wikipedia.org/wiki/ServiceNow,10
-413,SHW,Sherwin-Williams,https://en.wikipedia.org/wiki/Sherwin-Williams,5
-414,SPG,Simon Property Group,https://en.wikipedia.org/wiki/Simon_Property_Group,-1
-415,SWKS,Skyworks Solutions,https://en.wikipedia.org/wiki/Skyworks_Solutions,-1
-416,SJM,J.M. Smucker Company (The),https://en.wikipedia.org/wiki/The_J.M._Smucker_Company,2
-417,SW,Smurfit Westrock,https://en.wikipedia.org/wiki/Smurfit_Westrock,-1
+411,SRE,Sempra,https://en.wikipedia.org/wiki/Sempra,2
+412,NOW,ServiceNow,https://en.wikipedia.org/wiki/ServiceNow,32
+413,SHW,Sherwin-Williams,https://en.wikipedia.org/wiki/Sherwin-Williams,6
+414,SPG,Simon Property Group,https://en.wikipedia.org/wiki/Simon_Property_Group,5
+415,SWKS,Skyworks Solutions,https://en.wikipedia.org/wiki/Skyworks_Solutions,30
+416,SJM,J.M. Smucker Company (The),https://en.wikipedia.org/wiki/The_J.M._Smucker_Company,10
+417,SW,Smurfit Westrock,https://en.wikipedia.org/wiki/Smurfit_Westrock,7
 418,SNA,Snap-on,https://en.wikipedia.org/wiki/Snap-on,-1
 419,SOLV,Solventum,https://en.wikipedia.org/wiki/Solventum,-1
-420,SO,Southern Company,https://en.wikipedia.org/wiki/Southern_Company,-1
-421,LUV,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines,-1
+420,SO,Southern Company,https://en.wikipedia.org/wiki/Southern_Company,2
+421,LUV,Southwest Airlines,https://en.wikipedia.org/wiki/Southwest_Airlines,17
 422,SWK,Stanley Black & Decker,https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker,-1
-423,SBUX,Starbucks,https://en.wikipedia.org/wiki/Starbucks,-1
-424,STT,State Street Corporation,https://en.wikipedia.org/wiki/State_Street_Corporation,8
-425,STLD,Steel Dynamics,https://en.wikipedia.org/wiki/Steel_Dynamics,-1
-426,STE,Steris,https://en.wikipedia.org/wiki/Steris,-1
-427,SYK,Stryker Corporation,https://en.wikipedia.org/wiki/Stryker_Corporation,-1
-428,SMCI,Supermicro,https://en.wikipedia.org/wiki/Supermicro,9
-429,SYF,Synchrony Financial,https://en.wikipedia.org/wiki/Synchrony_Financial,-1
-430,SNPS,Synopsys,https://en.wikipedia.org/wiki/Synopsys,-1
+423,SBUX,Starbucks,https://en.wikipedia.org/wiki/Starbucks,9
+424,STT,State Street Corporation,https://en.wikipedia.org/wiki/State_Street_Corporation,24
+425,STLD,Steel Dynamics,https://en.wikipedia.org/wiki/Steel_Dynamics,8
+426,STE,Steris,https://en.wikipedia.org/wiki/Steris,20
+427,SYK,Stryker Corporation,https://en.wikipedia.org/wiki/Stryker_Corporation,20
+428,SMCI,Supermicro,https://en.wikipedia.org/wiki/Supermicro,30
+429,SYF,Synchrony Financial,https://en.wikipedia.org/wiki/Synchrony_Financial,24
+430,SNPS,Synopsys,https://en.wikipedia.org/wiki/Synopsys,30
 431,SYY,Sysco,https://en.wikipedia.org/wiki/Sysco,-1
-432,TMUS,T-Mobile US,https://en.wikipedia.org/wiki/T-Mobile_US,-1
-433,TROW,T. Rowe Price,https://en.wikipedia.org/wiki/T._Rowe_Price,4
-434,TTWO,Take-Two Interactive,https://en.wikipedia.org/wiki/Take-Two_Interactive,-1
-435,TPR,"Tapestry, Inc.","https://en.wikipedia.org/wiki/Tapestry,_Inc.",-1
-436,TRGP,Targa Resources,https://en.wikipedia.org/wiki/Targa_Resources,-1
-437,TGT,Target Corporation,https://en.wikipedia.org/wiki/Target_Corporation,-1
-438,TEL,TE Connectivity,https://en.wikipedia.org/wiki/TE_Connectivity,-1
-439,TDY,Teledyne Technologies,https://en.wikipedia.org/wiki/Teledyne_Technologies,6
-440,TER,Teradyne,https://en.wikipedia.org/wiki/Teradyne,-1
+432,TMUS,T-Mobile US,https://en.wikipedia.org/wiki/T-Mobile_US,3
+433,TROW,T. Rowe Price,https://en.wikipedia.org/wiki/T._Rowe_Price,28
+434,TTWO,Take-Two Interactive,https://en.wikipedia.org/wiki/Take-Two_Interactive,26
+435,TPR,"Tapestry, Inc.","https://en.wikipedia.org/wiki/Tapestry,_Inc.",18
+436,TRGP,Targa Resources,https://en.wikipedia.org/wiki/Targa_Resources,2
+437,TGT,Target Corporation,https://en.wikipedia.org/wiki/Target_Corporation,18
+438,TEL,TE Connectivity,https://en.wikipedia.org/wiki/TE_Connectivity,26
+439,TDY,Teledyne Technologies,https://en.wikipedia.org/wiki/Teledyne_Technologies,26
+440,TER,Teradyne,https://en.wikipedia.org/wiki/Teradyne,26
 441,TSLA,"Tesla, Inc.","https://en.wikipedia.org/wiki/Tesla,_Inc.",-1
-442,TXN,Texas Instruments,https://en.wikipedia.org/wiki/Texas_Instruments,6
-443,TPL,Texas Pacific Land Corporation,https://en.wikipedia.org/wiki/Texas_Pacific_Land_Corporation,-1
-444,TXT,Textron,https://en.wikipedia.org/wiki/Textron,6
-445,TMO,Thermo Fisher Scientific,https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific,-1
-446,TJX,TJX Companies,https://en.wikipedia.org/wiki/TJX_Companies,6
-447,TKO,TKO Group Holdings,https://en.wikipedia.org/wiki/TKO_Group_Holdings,-1
-448,TTD,Trade Desk (The),https://en.wikipedia.org/wiki/The_Trade_Desk,-1
-449,TSCO,Tractor Supply,https://en.wikipedia.org/wiki/Tractor_Supply,-1
-450,TT,Trane Technologies,https://en.wikipedia.org/wiki/Trane_Technologies,6
-451,TDG,TransDigm Group,https://en.wikipedia.org/wiki/TransDigm_Group,-1
-452,TRV,Travelers Companies (The),https://en.wikipedia.org/wiki/The_Travelers_Companies,-1
-453,TRMB,Trimble Inc.,https://en.wikipedia.org/wiki/Trimble_Inc.,6
-454,TFC,Truist Financial,https://en.wikipedia.org/wiki/Truist_Financial,8
-455,TYL,Tyler Technologies,https://en.wikipedia.org/wiki/Tyler_Technologies,6
-456,TSN,Tyson Foods,https://en.wikipedia.org/wiki/Tyson_Foods,-1
-457,USB,U.S. Bancorp,https://en.wikipedia.org/wiki/U.S._Bancorp,8
-458,UBER,Uber,https://en.wikipedia.org/wiki/Uber,-1
-459,UDR,"UDR, Inc.","https://en.wikipedia.org/wiki/UDR,_Inc.",7
-460,ULTA,Ulta Beauty,https://en.wikipedia.org/wiki/Ulta_Beauty,-1
-461,UNP,Union Pacific Corporation,https://en.wikipedia.org/wiki/Union_Pacific_Corporation,-1
-462,UAL,United Airlines Holdings,https://en.wikipedia.org/wiki/United_Airlines_Holdings,-1
-463,UPS,United Parcel Service,https://en.wikipedia.org/wiki/United_Parcel_Service,-1
-464,URI,United Rentals,https://en.wikipedia.org/wiki/United_Rentals,-1
-465,UNH,UnitedHealth Group,https://en.wikipedia.org/wiki/UnitedHealth_Group,-1
-466,UHS,Universal Health Services,https://en.wikipedia.org/wiki/Universal_Health_Services,-1
-467,VLO,Valero Energy,https://en.wikipedia.org/wiki/Valero_Energy,-1
-468,VTR,Ventas,https://en.wikipedia.org/wiki/Ventas_(company),7
+442,TXN,Texas Instruments,https://en.wikipedia.org/wiki/Texas_Instruments,-1
+443,TPL,Texas Pacific Land Corporation,https://en.wikipedia.org/wiki/Texas_Pacific_Land_Corporation,2
+444,TXT,Textron,https://en.wikipedia.org/wiki/Textron,26
+445,TMO,Thermo Fisher Scientific,https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific,20
+446,TJX,TJX Companies,https://en.wikipedia.org/wiki/TJX_Companies,18
+447,TKO,TKO Group Holdings,https://en.wikipedia.org/wiki/TKO_Group_Holdings,18
+448,TTD,Trade Desk (The),https://en.wikipedia.org/wiki/The_Trade_Desk,26
+449,TSCO,Tractor Supply,https://en.wikipedia.org/wiki/Tractor_Supply,18
+450,TT,Trane Technologies,https://en.wikipedia.org/wiki/Trane_Technologies,26
+451,TDG,TransDigm Group,https://en.wikipedia.org/wiki/TransDigm_Group,26
+452,TRV,Travelers Companies (The),https://en.wikipedia.org/wiki/The_Travelers_Companies,27
+453,TRMB,Trimble Inc.,https://en.wikipedia.org/wiki/Trimble_Inc.,26
+454,TFC,Truist Financial,https://en.wikipedia.org/wiki/Truist_Financial,24
+455,TYL,Tyler Technologies,https://en.wikipedia.org/wiki/Tyler_Technologies,26
+456,TSN,Tyson Foods,https://en.wikipedia.org/wiki/Tyson_Foods,10
+457,USB,U.S. Bancorp,https://en.wikipedia.org/wiki/U.S._Bancorp,24
+458,UBER,Uber,https://en.wikipedia.org/wiki/Uber,17
+459,UDR,"UDR, Inc.","https://en.wikipedia.org/wiki/UDR,_Inc.",5
+460,ULTA,Ulta Beauty,https://en.wikipedia.org/wiki/Ulta_Beauty,18
+461,UNP,Union Pacific Corporation,https://en.wikipedia.org/wiki/Union_Pacific_Corporation,2
+462,UAL,United Airlines Holdings,https://en.wikipedia.org/wiki/United_Airlines_Holdings,17
+463,UPS,United Parcel Service,https://en.wikipedia.org/wiki/United_Parcel_Service,17
+464,URI,United Rentals,https://en.wikipedia.org/wiki/United_Rentals,17
+465,UNH,UnitedHealth Group,https://en.wikipedia.org/wiki/UnitedHealth_Group,4
+466,UHS,Universal Health Services,https://en.wikipedia.org/wiki/Universal_Health_Services,4
+467,VLO,Valero Energy,https://en.wikipedia.org/wiki/Valero_Energy,2
+468,VTR,Ventas,https://en.wikipedia.org/wiki/Ventas_(company),5
 469,VLTO,Veralto,https://en.wikipedia.org/wiki/Veralto,-1
 470,VRSN,Verisign,https://en.wikipedia.org/wiki/Verisign,-1
 471,VRSK,Verisk Analytics,https://en.wikipedia.org/wiki/Verisk_Analytics,-1
-472,VZ,Verizon,https://en.wikipedia.org/wiki/Verizon,-1
-473,VRTX,Vertex Pharmaceuticals,https://en.wikipedia.org/wiki/Vertex_Pharmaceuticals,7
-474,VTRS,Viatris,https://en.wikipedia.org/wiki/Viatris,-1
-475,VICI,Vici Properties,https://en.wikipedia.org/wiki/Vici_Properties,-1
-476,V,Visa Inc.,https://en.wikipedia.org/wiki/Visa_Inc.,-1
-477,VST,Vistra Corp.,https://en.wikipedia.org/wiki/Vistra_Corp,-1
-478,VMC,Vulcan Materials Company,https://en.wikipedia.org/wiki/Vulcan_Materials_Company,-1
-479,WRB,W. R. Berkley Corporation,https://en.wikipedia.org/wiki/W._R._Berkley_Corporation,-1
-480,GWW,W. W. Grainger,https://en.wikipedia.org/wiki/W._W._Grainger,5
-481,WAB,Wabtec,https://en.wikipedia.org/wiki/Wabtec,-1
-482,WMT,Walmart,https://en.wikipedia.org/wiki/Walmart,-1
-483,DIS,Walt Disney Company (The),https://en.wikipedia.org/wiki/The_Walt_Disney_Company,-1
-484,WBD,Warner Bros. Discovery,https://en.wikipedia.org/wiki/Warner_Bros._Discovery,-1
-485,WM,Waste Management,"https://en.wikipedia.org/wiki/Waste_Management,_Inc.",-1
+472,VZ,Verizon,https://en.wikipedia.org/wiki/Verizon,3
+473,VRTX,Vertex Pharmaceuticals,https://en.wikipedia.org/wiki/Vertex_Pharmaceuticals,20
+474,VTRS,Viatris,https://en.wikipedia.org/wiki/Viatris,20
+475,VICI,Vici Properties,https://en.wikipedia.org/wiki/Vici_Properties,22
+476,V,Visa Inc.,https://en.wikipedia.org/wiki/Visa_Inc.,23
+477,VST,Vistra Corp.,https://en.wikipedia.org/wiki/Vistra_Corp,2
+478,VMC,Vulcan Materials Company,https://en.wikipedia.org/wiki/Vulcan_Materials_Company,0
+479,WRB,W. R. Berkley Corporation,https://en.wikipedia.org/wiki/W._R._Berkley_Corporation,27
+480,GWW,W. W. Grainger,https://en.wikipedia.org/wiki/W._W._Grainger,11
+481,WAB,Wabtec,https://en.wikipedia.org/wiki/Wabtec,6
+482,WMT,Walmart,https://en.wikipedia.org/wiki/Walmart,18
+483,DIS,Walt Disney Company (The),https://en.wikipedia.org/wiki/The_Walt_Disney_Company,19
+484,WBD,Warner Bros. Discovery,https://en.wikipedia.org/wiki/Warner_Bros._Discovery,19
+485,WM,Waste Management,"https://en.wikipedia.org/wiki/Waste_Management,_Inc.",6
 486,WAT,Waters Corporation,https://en.wikipedia.org/wiki/Waters_Corporation,-1
-487,WEC,WEC Energy Group,https://en.wikipedia.org/wiki/WEC_Energy_Group,3
-488,WFC,Wells Fargo,https://en.wikipedia.org/wiki/Wells_Fargo,8
-489,WELL,Welltower,https://en.wikipedia.org/wiki/Welltower,7
-490,WST,West Pharmaceutical Services,https://en.wikipedia.org/wiki/West_Pharmaceutical_Services,-1
+487,WEC,WEC Energy Group,https://en.wikipedia.org/wiki/WEC_Energy_Group,2
+488,WFC,Wells Fargo,https://en.wikipedia.org/wiki/Wells_Fargo,24
+489,WELL,Welltower,https://en.wikipedia.org/wiki/Welltower,5
+490,WST,West Pharmaceutical Services,https://en.wikipedia.org/wiki/West_Pharmaceutical_Services,20
 491,WDC,Western Digital,https://en.wikipedia.org/wiki/Western_Digital,-1
-492,WY,Weyerhaeuser,https://en.wikipedia.org/wiki/Weyerhaeuser,-1
-493,WSM,"Williams-Sonoma, Inc.","https://en.wikipedia.org/wiki/Williams-Sonoma,_Inc.",-1
-494,WMB,Williams Companies,https://en.wikipedia.org/wiki/Williams_Companies,-1
+492,WY,Weyerhaeuser,https://en.wikipedia.org/wiki/Weyerhaeuser,6
+493,WSM,"Williams-Sonoma, Inc.","https://en.wikipedia.org/wiki/Williams-Sonoma,_Inc.",6
+494,WMB,Williams Companies,https://en.wikipedia.org/wiki/Williams_Companies,2
 495,WTW,Willis Towers Watson,https://en.wikipedia.org/wiki/Willis_Towers_Watson,-1
-496,WDAY,"Workday, Inc.","https://en.wikipedia.org/wiki/Workday,_Inc.",10
-497,WYNN,Wynn Resorts,https://en.wikipedia.org/wiki/Wynn_Resorts,-1
-498,XEL,Xcel Energy,https://en.wikipedia.org/wiki/Xcel_Energy,3
-499,XYL,Xylem Inc.,https://en.wikipedia.org/wiki/Xylem_Inc.,-1
-500,YUM,Yum! Brands,https://en.wikipedia.org/wiki/Yum!_Brands,-1
-501,ZBRA,Zebra Technologies,https://en.wikipedia.org/wiki/Zebra_Technologies,-1
-502,ZBH,Zimmer Biomet,https://en.wikipedia.org/wiki/Zimmer_Biomet,-1
-503,ZTS,Zoetis,https://en.wikipedia.org/wiki/Zoetis,-1
+496,WDAY,"Workday, Inc.","https://en.wikipedia.org/wiki/Workday,_Inc.",32
+497,WYNN,Wynn Resorts,https://en.wikipedia.org/wiki/Wynn_Resorts,22
+498,XEL,Xcel Energy,https://en.wikipedia.org/wiki/Xcel_Energy,2
+499,XYL,Xylem Inc.,https://en.wikipedia.org/wiki/Xylem_Inc.,20
+500,YUM,Yum! Brands,https://en.wikipedia.org/wiki/Yum!_Brands,10
+501,ZBRA,Zebra Technologies,https://en.wikipedia.org/wiki/Zebra_Technologies,26
+502,ZBH,Zimmer Biomet,https://en.wikipedia.org/wiki/Zimmer_Biomet,20
+503,ZTS,Zoetis,https://en.wikipedia.org/wiki/Zoetis,20
